@@ -8,6 +8,7 @@ import android.support.annotation.Nullable;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.haibin.calendarview.Calendar;
@@ -28,6 +29,7 @@ public class MainActivity extends Activity implements
     private int mDay;
     CalendarLayout mCalendarLayout;
     private Context mContext;
+    private TextView tvCurrentDay;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -40,9 +42,9 @@ public class MainActivity extends Activity implements
     protected void initView() {
         mContext = this;
         mCalendarView = (CalendarView) findViewById(R.id.calendarView);
-
+        tvCurrentDay= (TextView) findViewById(R.id.tvCurrentDay);
         //上个月
-        findViewById(R.id.btnUpMonth).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.ivUpMonth).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 if (!mCalendarView.getCanScroll()) {
@@ -65,7 +67,7 @@ public class MainActivity extends Activity implements
             }
         });
         //下个月
-        findViewById(R.id.btnNextMonth).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.ivNextMonth).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 String time = mYear + "-" + mMonth + "-" + mDay;
@@ -83,7 +85,7 @@ public class MainActivity extends Activity implements
 
 
         //上一周
-        findViewById(R.id.btnUpWeek).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.tvUpWeek).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 if (!mCalendarView.getCanScroll()) {
@@ -96,7 +98,7 @@ public class MainActivity extends Activity implements
         });
 
         //下一周
-        findViewById(R.id.btnNextWeek).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.tvNextWeek).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 mCalendarView.scrollToNext();
@@ -119,6 +121,7 @@ public class MainActivity extends Activity implements
         mCalendarView.setOnYearChangeListener(this);
 
         mYear = mCalendarView.getCurYear();
+        showText();
     }
 
 
@@ -185,8 +188,6 @@ public class MainActivity extends Activity implements
 
     private void showText() {
         Calendar calendar = mCalendarView.getSelectedCalendar();
-//        mTextMonthDay.setText(calendar.getMonth() + "月" + calendar.getDay() + "日");
-//        mTextLunar.setText("今日");
-//        mTextCurrentDay.setText(String.valueOf(calendar.getDay()));
+        tvCurrentDay.setText(calendar.getYear() + "年" + calendar.getMonth() + "月");
     }
 }

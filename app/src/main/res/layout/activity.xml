@@ -1,106 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:background="#ffffff"
     android:fitsSystemWindows="true"
-    tools:ignore="RtlHardcoded,HardcodedText,RtlSymmetry,SmallSp">
-    <com.haibin.calendarview.CalendarLayout
-        android:id="@+id/calendarLayout"
+    android:orientation="vertical">
+
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:background="#fff"
-        app:default_status="shrink"
-        app:calendar_show_mode="only_week_view"
-        app:calendar_content_view_id="@+id/recyclerView">
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
-        <com.haibin.calendarview.CalendarView
-            android:id="@+id/calendarView"
+        <include
+            layout="@layout/layout_date_top"
             android:layout_width="match_parent"
-            android:layout_height="100dp"
-            android:background="#fff"
-            android:layout_marginLeft="12dp"
-            android:layout_marginRight="12dp"
-            app:current_month_lunar_text_color="#CFCFCF"
-            app:current_month_text_color="#333333"
-            app:max_year="2020"
-            app:min_year="2004"
-            app:month_view="com.haibin.calendarviewproject.view.CustomMonthView"
-            app:month_view_show_mode="mode_fix"
-            app:other_month_lunar_text_color="#e1e1e1"
-            app:other_month_text_color="#e1e1e1"
-            app:scheme_text="假"
-            app:scheme_text_color="#333"
-            app:scheme_theme_color="#128c4b"
-            app:selected_lunar_text_color="#fff"
-            app:selected_text_color="#fff"
-            app:selected_theme_color="#046cea"
-            app:week_background="#fff"
-            app:week_text_color="#e1e1e1"
-            app:week_view="com.haibin.calendarviewproject.view.CustomWeekView"
-            app:year_view_day_text_color="#333333"
-            app:year_view_day_text_size="9sp"
-            app:year_view_month_text_color="#ff0000"
-            app:year_view_month_text_size="20sp"
-            app:year_view_scheme_color="#f17706" />
-
-
-        <LinearLayout
+            android:layout_height="wrap_content" />
+        <View
             android:layout_width="match_parent"
-            android:layout_height="100dp"
-            android:layout_marginTop="20dp"
+            android:layout_height="2px"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/cEDEDED"
+            />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:orientation="horizontal">
-            <Button
-                android:id="@+id/btnUpMonth"
-                android:layout_width="match_parent"
-                android:layout_height="40dp"
-                android:layout_weight="1"
-                android:text="上个月"/>
-            <Button
-                android:id="@+id/btnNextMonth"
-                android:layout_width="match_parent"
-                android:layout_height="40dp"
-                android:layout_weight="1"
-                android:text="下个月"/>
-        </LinearLayout>
 
-        <LinearLayout
+            <TextView
+                android:id="@+id/tvUpWeek"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/calendarLayout"
+                android:layout_alignBottom="@+id/calendarLayout"
+                android:layout_alignParentLeft="true"
+                android:gravity="center"
+                android:minWidth="30dp"
+                android:textColor="@color/c656565"
+                android:textSize="12sp"
+                android:text="@string/up_week" />
+
+            <com.haibin.calendarview.CalendarLayout
+                android:id="@+id/calendarLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/tvNextWeek"
+                android:layout_toRightOf="@+id/tvUpWeek"
+                android:background="#fff"
+                android:orientation="vertical"
+                app:calendar_content_view_id="@+id/recyclerView"
+                app:calendar_show_mode="only_week_view"
+                app:default_status="shrink">
+
+                <com.haibin.calendarview.CalendarView
+                    android:id="@+id/calendarView"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_marginRight="12dp"
+                    android:background="#fff"
+                    app:current_month_lunar_text_color="#CFCFCF"
+                    app:current_month_text_color="#333333"
+                    app:max_year="2020"
+                    app:min_year="2004"
+                    app:month_view="com.haibin.calendarviewproject.view.CustomMonthView"
+                    app:month_view_show_mode="mode_fix"
+                    app:other_month_lunar_text_color="#e1e1e1"
+                    app:other_month_text_color="#e1e1e1"
+                    app:scheme_text="假"
+                    app:scheme_text_color="#333"
+                    app:scheme_theme_color="#128c4b"
+                    app:selected_lunar_text_color="#fff"
+                    app:selected_text_color="#fff"
+                    app:selected_theme_color="#046cea"
+                    app:week_background="#fff"
+                    app:week_text_color="#e1e1e1"
+                    app:week_view="com.haibin.calendarviewproject.view.CustomWeekView"
+                    app:year_view_day_text_color="#333333"
+                    app:year_view_day_text_size="9sp"
+                    app:year_view_month_text_color="#ff0000"
+                    app:year_view_month_text_size="20sp"
+                    app:year_view_scheme_color="#f17706" />
+
+                <com.haibin.calendarview.group.GroupRecyclerView
+                    android:id="@+id/recyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/content_background"
+                    android:visibility="gone"
+                    app:group_background="@color/content_background"
+                    app:group_center="false"
+                    app:group_has_header="false"
+                    app:group_height="42dp"
+                    app:group_padding_left="16dp"
+                    app:group_padding_right="16dp"
+                    app:group_text_color="#555555"
+                    app:group_text_size="14sp" />
+
+            </com.haibin.calendarview.CalendarLayout>
+
+            <TextView
+                android:id="@+id/tvNextWeek"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/calendarLayout"
+                android:layout_alignBottom="@+id/calendarLayout"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:minWidth="30dp"
+                android:textColor="@color/c656565"
+                android:textSize="12sp"
+                android:text="@string/next_week" />
+
+        </RelativeLayout>
+        <TextView
             android:layout_width="match_parent"
-            android:layout_height="100dp"
-            android:orientation="horizontal">
-            <Button
-                android:id="@+id/btnUpWeek"
-                android:layout_width="match_parent"
-                android:layout_height="40dp"
-                android:layout_weight="1"
-                android:text="上一周"/>
-            <Button
-                android:id="@+id/btnNextWeek"
-                android:layout_width="match_parent"
-                android:layout_height="40dp"
-                android:layout_weight="1"
-                android:text="下一周"/>
-        </LinearLayout>
-        <com.haibin.calendarview.group.GroupRecyclerView
-            android:id="@+id/recyclerView"
-            app:group_background="@color/content_background"
-            app:group_center="false"
-            app:group_height="42dp"
-            app:group_has_header="false"
-            app:group_padding_left="16dp"
-            app:group_padding_right="16dp"
-            app:group_text_size="14sp"
-            app:group_text_color="#555555"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:visibility="gone"
-            android:background="@color/content_background" />
-
-    </com.haibin.calendarview.CalendarLayout>
-
-
-</LinearLayout>
+            android:layout_height="wrap_content"
+            android:text="@string/can_choose_time"
+            android:textColor="#FF323232"
+            android:textSize="16sp"
+            android:gravity="center"/>
+    </LinearLayout>
+</ScrollView>
