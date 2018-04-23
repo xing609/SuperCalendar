@@ -6,7 +6,7 @@ import android.graphics.Paint;
 
 /**
  * 默认高仿魅族日历布局
- * Created by huanghaibin on 2017/11/15.
+ *
  */
 
 public class DefaultMonthView extends MonthView {
