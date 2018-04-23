@@ -1,4 +1,4 @@
-package com.haibin.calendarviewproject;
+package com.haibin.calendarviewproject.util;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
