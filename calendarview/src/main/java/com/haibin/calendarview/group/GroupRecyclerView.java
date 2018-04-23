@@ -1,4 +1,4 @@
-package com.haibin.calendarviewproject.group;
+package com.haibin.calendarview.group;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -6,7 +6,7 @@ import android.support.annotation.Nullable;
 import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 
-import com.haibin.calendarviewproject.R;
+import com.haibin.calendarview.R;
 
 
 /**

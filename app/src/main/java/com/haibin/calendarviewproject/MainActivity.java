@@ -1,8 +1,10 @@
 package com.haibin.calendarviewproject;
 
 import android.annotation.SuppressLint;
+import android.app.Activity;
 import android.content.Context;
-import android.content.Intent;
+import android.os.Bundle;
+import android.support.annotation.Nullable;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
@@ -11,14 +13,14 @@ import android.widget.Toast;
 import com.haibin.calendarview.Calendar;
 import com.haibin.calendarview.CalendarLayout;
 import com.haibin.calendarview.CalendarView;
-import com.haibin.calendarviewproject.base.activity.BaseActivity;
+import com.haibin.calendarviewproject.util.DateUtil;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class MeiZuActivity extends BaseActivity implements
+public class MainActivity extends Activity implements
         CalendarView.OnDateSelectedListener,
-        CalendarView.OnYearChangeListener{
+        CalendarView.OnYearChangeListener {
 
     private CalendarView mCalendarView;
     private int mYear;
@@ -27,21 +29,16 @@ public class MeiZuActivity extends BaseActivity implements
     CalendarLayout mCalendarLayout;
     private Context mContext;
 
-    public static void show(Context context) {
-        context.startActivity(new Intent(context, MeiZuActivity.class));
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity);
+        initView();
+        initData();
     }
 
-
-    @Override
-    protected int getLayoutId() {
-        return R.layout.activity;
-    }
-
-    @SuppressLint("SetTextI18n")
-    @Override
     protected void initView() {
         mContext = this;
-        setStatusBarDarkMode();
         mCalendarView = (CalendarView) findViewById(R.id.calendarView);
 
         //上个月
@@ -124,8 +121,8 @@ public class MeiZuActivity extends BaseActivity implements
         mYear = mCalendarView.getCurYear();
     }
 
-    @Override
-    protected void initData() {
+
+    private void initData() {
         List<Calendar> schemes = new ArrayList<>();
         int year = mCalendarView.getCurYear();
         int month = mCalendarView.getCurMonth();
@@ -142,7 +139,6 @@ public class MeiZuActivity extends BaseActivity implements
         //mCalendarView.setSchemeDate(schemes);
 
     }
-
 
 
     private Calendar getSchemeCalendar(int year, int month, int day, int color, String text) {

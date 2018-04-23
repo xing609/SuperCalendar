@@ -29,7 +29,7 @@
             app:current_month_text_color="#333333"
             app:max_year="2020"
             app:min_year="2004"
-            app:month_view="com.haibin.calendarviewproject.style.CustomMonthView"
+            app:month_view="com.haibin.calendarviewproject.view.CustomMonthView"
             app:month_view_show_mode="mode_fix"
             app:other_month_lunar_text_color="#e1e1e1"
             app:other_month_text_color="#e1e1e1"
@@ -41,7 +41,7 @@
             app:selected_theme_color="#046cea"
             app:week_background="#fff"
             app:week_text_color="#e1e1e1"
-            app:week_view="com.haibin.calendarviewproject.style.CustomWeekView"
+            app:week_view="com.haibin.calendarviewproject.view.CustomWeekView"
             app:year_view_day_text_color="#333333"
             app:year_view_day_text_size="9sp"
             app:year_view_month_text_color="#ff0000"
@@ -85,7 +85,7 @@
                 android:layout_weight="1"
                 android:text="下一周"/>
         </LinearLayout>
-        <com.haibin.calendarviewproject.group.GroupRecyclerView
+        <com.haibin.calendarview.group.GroupRecyclerView
             android:id="@+id/recyclerView"
             app:group_background="@color/content_background"
             app:group_center="false"

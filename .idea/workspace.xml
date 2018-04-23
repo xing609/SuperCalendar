@@ -15,28 +15,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f003097-df2e-43b2-a81c-5d410a987d68" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomMonthView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomWeekBar.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomWeekView.java" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/haibin/calendarviewproject/ExampleInstrumentedTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_calendarview_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_calendarview_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_calendarview_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_calendarview_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_calendarview_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_calendarview_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/meizu/MeiZuActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/MeiZuActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_meizu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_multi.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_progress.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_simple.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_solay.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_test.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/haibin/calendarviewproject/ExampleUnitTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/BaseView.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/BaseView.java" />
-      <change beforePath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/DefaultMonthView.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/DefaultMonthView.java" />
-      <change beforePath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/DefaultWeekView.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/DefaultWeekView.java" />
-      <change beforePath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/MonthView.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/MonthView.java" />
-      <change beforePath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/WeekBar.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/WeekBar.java" />
-      <change beforePath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/WeekView.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/WeekView.java" />
-      <change beforePath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/YearView.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/YearView.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/Article.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/DateUtil.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/util/DateUtil.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/EnglishWeekBar.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/MeiZuActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/MainActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/base/activity/BaseActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/base/adapter/BaseRecyclerAdapter.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/BaseRecyclerAdapter.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/base/type/SchemeType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/group/GroupItemDecoration.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/GroupItemDecoration.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/group/GroupRecyclerAdapter.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/GroupRecyclerAdapter.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/group/GroupRecyclerView.java" afterPath="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/GroupRecyclerView.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomMonthView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/view/CustomMonthView.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomWeekBar.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomWeekView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/view/CustomWeekView.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_colorful.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_custom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_index.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/english_week_bar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_list_article.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_list_article_group.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_list_string.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/calendarview/src/main/res/values/attrs.xml" afterPath="$PROJECT_DIR$/calendarview/src/main/res/values/attrs.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,11 +72,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MeiZuActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/MeiZuActivity.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            <state relative-caret-position="242">
+              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1299#2250#0" expanded="true" />
+                <element signature="e#2249#2250#0" expanded="true" />
+                <element signature="e#2326#3030#0" expanded="true" />
+                <element signature="e#3029#3030#0" expanded="true" />
+                <element signature="e#3105#3394#0" expanded="true" />
+                <element signature="e#3393#3394#0" expanded="true" />
+                <element signature="e#3470#3660#0" expanded="true" />
+                <element signature="e#3659#3660#0" expanded="true" />
+                <element signature="e#3718#3868#0" expanded="true" />
+                <element signature="e#3867#3868#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_week_bar.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/custom_week_bar.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solar_week_bar.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/solar_week_bar.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,15 +126,57 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="92" column="40" lean-forward="false" selection-start-line="92" selection-start-column="40" selection-end-line="92" selection-end-column="40" />
+            <state relative-caret-position="343">
+              <caret line="93" column="41" lean-forward="false" selection-start-line="93" selection-start-column="41" selection-end-line="93" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupItemDecoration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/GroupItemDecoration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupRecyclerAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/GroupRecyclerAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomMonthView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/view/CustomMonthView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomWeekView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/view/CustomWeekView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="DateUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/DateUtil.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/util/DateUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -92,11 +185,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Article.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/Article.java">
+      <file leaf-file-name="BaseRecyclerAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/BaseRecyclerAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-42">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="192">
+              <caret line="127" column="10" lean-forward="false" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -110,6 +203,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GroupRecyclerView</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -3171,8 +3269,19 @@
         <option value="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/style/CustomWeekView.java" />
         <option value="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/style/CustomWeekBar.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomWeekView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/group/GroupRecyclerView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/MeiZuActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/group/GroupItemDecoration.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/base/BaseRecyclerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/group/GroupRecyclerAdapter.java" />
+        <option value="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/GroupRecyclerView.java" />
+        <option value="$PROJECT_DIR$/calendarview/src/main/res/values/attrs.xml" />
+        <option value="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/BaseRecyclerAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity.xml" />
+        <option value="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/GroupRecyclerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -3239,6 +3348,152 @@
             <path>
               <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haibin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haibin" type="462c0819:PsiDirectoryNode" />
+              <item name="calendarviewproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calendarview" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calendarview" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calendarview" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calendarview" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calendarview" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calendarview" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haibin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calendarview" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haibin" type="462c0819:PsiDirectoryNode" />
+              <item name="calendarview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calendarview" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calendarview" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -3310,7 +3565,13 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.haibin.calendarviewproject" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.haibin.calendarview.group" />
+      <recent name="com.haibin.calendarviewproject.base" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject" />
       <recent name="$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style" />
       <recent name="$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/style" />
     </key>
@@ -3510,10 +3771,10 @@
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22017045" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2528409" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5369318" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58522725" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -3521,12 +3782,12 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22213247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22213247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2996769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35864297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -3548,54 +3809,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/LunarUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1192">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/WeekBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/WeekView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/WeekViewPager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/YearRecyclerView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/YearSelectLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/YearView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -3748,53 +3961,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomWeekBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomMonthView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomWeekView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_multi.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/solar_week_bar.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_list_string.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
@@ -3816,10 +3983,194 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/MeiZuActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/Article.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="-42">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/EnglishWeekBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#391#409#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/base/activity/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/base/adapter/BaseRecyclerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1144">
+          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_index.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/english_week_bar.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_list_string.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/bg_material.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/bg_ripple.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/style/CustomWeekBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/group/GroupRecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/group/GroupItemDecoration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="221" column="0" lean-forward="false" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/group/GroupRecyclerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendarview/src/main/res/values/attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="77" column="42" lean-forward="false" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/base/BaseRecyclerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="130" column="9" lean-forward="false" selection-start-line="130" selection-start-column="9" selection-end-line="130" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/base/type/SchemeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/GroupRecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/BaseRecyclerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="127" column="10" lean-forward="false" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/GroupItemDecoration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -3829,13 +4180,39 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="92" column="40" lean-forward="false" selection-start-line="92" selection-start-column="40" selection-end-line="92" selection-end-column="40" />
+        <state relative-caret-position="343">
+          <caret line="93" column="41" lean-forward="false" selection-start-line="93" selection-start-column="41" selection-end-line="93" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/DateUtil.java">
+    <entry file="file://$PROJECT_DIR$/calendarview/src/main/java/com/haibin/calendarview/group/GroupRecyclerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/view/CustomMonthView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/view/CustomWeekView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/util/DateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -3843,10 +4220,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/Article.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/haibin/calendarviewproject/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="242">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1299#2250#0" expanded="true" />
+            <element signature="e#2249#2250#0" expanded="true" />
+            <element signature="e#2326#3030#0" expanded="true" />
+            <element signature="e#3029#3030#0" expanded="true" />
+            <element signature="e#3105#3394#0" expanded="true" />
+            <element signature="e#3393#3394#0" expanded="true" />
+            <element signature="e#3470#3660#0" expanded="true" />
+            <element signature="e#3659#3660#0" expanded="true" />
+            <element signature="e#3718#3868#0" expanded="true" />
+            <element signature="e#3867#3868#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/custom_week_bar.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/solar_week_bar.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
